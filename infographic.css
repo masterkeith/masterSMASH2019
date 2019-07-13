@@ -1,5 +1,5 @@
 body{
-   background-image: linear-gradient( to right, azure, azure, darkblue, black);
+   background-image: linear-gradient( to bottom right, azure, azure, darkblue, black);
    background-size: cover; 
    font-size: 20pt;
    color: white;
