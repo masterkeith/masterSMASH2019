@@ -1,0 +1,43 @@
+body{
+   background-image: linear-gradient( azure, darkblue, black);
+   background-size: cover; 
+   font-size: 20pt;
+   color: white;
+}
+
+
+#ik {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+#ik a{
+  float: left;
+}
+
+#ik a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to teal on hover */
+#ik a:hover {
+  background-color: teal;
+  color:white;
+}
+
+
+.active {
+  background-color: red;
+}
+
+#ugh {
+margin: auto;
+
+}

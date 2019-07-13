@@ -1,0 +1,167 @@
+body{
+   background-image: url(https://thumbs.dreamstime.com/t/blue-smokey-ink-swirling-around-water-texture-good-background-blue-smokey-ink-water-background-108349744.jpg);
+   background-size: cover; 
+   font-size: 20pt;
+   color: white;
+}
+
+#pl{
+  text-align: center;
+  border-bottom: solid black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#act{ float: left;
+ }
+ #olp {
+  border-bottom: solid black;
+  padding: 10px;
+  width: 900px;
+  float: right; 
+  background-color: rgba(0,0,0,0.4);
+  font-family: "Times New Roman", Times, serif; }
+
+ #sup {
+  border-bottom: solid black;
+  padding: 10px;
+  width: 1040px;
+  float: left; 
+  background-color: rgba(0,0,0,0.4); 
+font-family: "Times New Roman", Times, serif;}
+
+  #people {
+  border-bottom: solid black;
+  padding: 10px;
+  width: 1040px;
+  float: left; 
+  background-color: rgba(0,0,0,0.4);
+  font-family: "Times New Roman", Times, serif; }
+  
+   #master {
+  border-bottom: solid black;
+  padding: 10px;
+  width: 1040px;
+  float: left; 
+  background-color: rgba(0,0,0,0.4);
+  font-family: "Times New Roman", Times, serif; }
+
+#soo {
+  border-bottom: solid black;
+  padding: 10px;
+  width: 900px;
+  float: right; 
+  background-color: rgba(0,0,0,0.4);
+  font-family: "Times New Roman", Times, serif;
+}
+#ok{
+  float: left;
+  width: 327px;
+   clear: right;
+   height: 450px;
+}
+
+#ik ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+#ik li{
+  float: left;
+}
+
+#ik a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to teal on hover */
+#ik a:hover {
+  background-color: teal;
+  color:white;
+}
+
+.active {
+  background-color: red;
+}
+
+/* Style The Dropdown Button */
+.dropbtn {
+  background-color: red;
+  color: white;
+  padding: 16px;
+  font-size: 20pt;
+  border: none;
+  cursor: pointer;
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+  color:white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: teal;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: teal;
+}
+
+#lock{
+text-align: center;
+color: white;
+font-family: "Times New Roman", Times, serif;
+}
+
+#key{
+text-align: center;
+color: white;
+font-family: "Times New Roman", Times, serif;
+}
+
+#hut{
+text-align: center;
+color: white;
+font-size: 22px;
+ background-color: rgba(0,0,0,0.7);
+ padding: 20px;
+ font-family: "Times New Roman", Times, serif;
+
+}
+
+#poop { margin: auto;
+ }
+ 
